@@ -115,6 +115,3 @@ Comprehensive collection of:
 
 ---
 
-*"Turning complex engineering problems into innovative solutions through design and analysis"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
