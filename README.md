@@ -6,12 +6,9 @@ I'm an Aerospace Engineering student at **RV College of Engineering**, passionat
 
 My goal is to contribute to cutting-edge aerospace technologies and make designs that are both functional and groundbreaking. I focus on bringing technical excellence to every project while ensuring the end result is impactful and forward-thinking.
 
-## 🎯 Current Focus
+## 🎯 Current Projects
 
-- 🛸 **Aerospace Design**: Advanced rocket engine designs and propulsion system analysis
-- 🔧 **CAD Modeling**: Professional development of 3D models and technical drawings
-- 📊 **Data Analysis**: Advanced analysis and visualization of complex engineering and financial data
-- 🔬 **Research**: Space propulsion systems and advanced aerospace technologies
+- **RS25 Rocket Engine** - Deisng and simulation
 
 ## 🛠️ Skills & Expertise
 
@@ -110,13 +107,9 @@ Comprehensive collection of:
 - 📧 **Email**: your.email@example.com
 - 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
-## 🔭 What I'm Working On
+## 🔭 Completed Projects
 
-- Advanced rocket propulsion system designs
-- Ion thruster efficiency optimization
-- Aerospace component structural analysis
-- CAD modeling of complex propulsion systems
-- Research in space engineering applications
+- Ion thruster
 
 ## 💡 Fun Facts
 
