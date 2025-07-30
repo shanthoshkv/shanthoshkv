@@ -8,7 +8,8 @@ My goal is to contribute to cutting-edge aerospace technologies and make designs
 
 ## 🎯 Current Projects
 
-- **RS25 Rocket Engine** - Deisng and simulation
+- **RS25 Rocket Engine** - Design and simulation
+- **CE20 Rocket Engine** - Design and simulation
 
 ## 🛠️ Skills & Expertise
 
