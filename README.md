@@ -94,11 +94,6 @@ Comprehensive collection of:
 - Advanced cooling system analysis and optimization
 - Performance studies for aerospace applications
 
-## 📈 GitHub Stats
-
-![Shanthosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with Me
 
