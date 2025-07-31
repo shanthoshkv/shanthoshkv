@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm an Aerospace Engineering student at **RV College of Engineering**, passionate about **Space Engineering**, **Nuclear Physics**, and **Astrophysics**. I enjoy turning complex engineering problems into innovative solutions through design and analysis.
+I'm an Aerospace Engineering student, passionate about **Space Engineering**, **Nuclear Physics**, and **Astrophysics**. I enjoy turning complex engineering problems into innovative solutions through design and analysis.
 
 My goal is to contribute to cutting-edge aerospace technologies and make designs that are both functional and groundbreaking. I focus on bringing technical excellence to every project while ensuring the end result is impactful and forward-thinking.
 
