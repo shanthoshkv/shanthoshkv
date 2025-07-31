@@ -108,6 +108,7 @@ Comprehensive collection of:
 ## 🔭 Completed Projects
 
 - Ion thruster
+- Turbopump
 
 ## 💡 Fun Facts
 
