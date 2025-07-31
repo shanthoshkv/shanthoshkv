@@ -22,7 +22,7 @@ My goal is to contribute to cutting-edge aerospace technologies and make designs
 - **Design**: SolidWorks, CATIA, Fusion 360, CFTurbo
 - **Analysis**: ANSYS, ParaView
 - **Specialized**: OpenRocket, CFD Analysis
-- **Others**: STK
+- **Mission Analysis Tools**: STK
 
 ### Technical Specializations
 - Propulsion Systems Design
