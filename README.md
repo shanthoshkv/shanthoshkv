@@ -101,7 +101,7 @@ Comprehensive collection of:
 ## 🌐 Connect with Me
 
 - 🌍 **Portfolio**: [aboutkvs.vercel.app](https://aboutkvs.vercel.app/)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/shanthoshkv)
 - 📧 **Email**: shanthoshkv@gmail.com
 
 
