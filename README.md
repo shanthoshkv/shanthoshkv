@@ -102,8 +102,8 @@ Comprehensive collection of:
 
 - 🌍 **Portfolio**: [aboutkvs.vercel.app](https://aboutkvs.vercel.app/)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: your.email@example.com
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 **Email**: shanthoshkv@gmail.com
+
 
 ## 🔭 Completed Projects
 
