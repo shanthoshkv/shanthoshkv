@@ -19,9 +19,10 @@ My goal is to contribute to cutting-edge aerospace technologies and make designs
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ### CAD & Simulation Tools
-- **Design**: SolidWorks, CATIA, Fusion 360
-- **Analysis**: ANSYS, STK, CFTurbo, HyperMesh, ParaView
+- **Design**: SolidWorks, CATIA, Fusion 360, CFTurbo
+- **Analysis**: ANSYS, ParaView
 - **Specialized**: OpenRocket, CFD Analysis
+- **Others**: STK
 
 ### Technical Specializations
 - Propulsion Systems Design
