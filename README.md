@@ -77,6 +77,16 @@ Comprehensive collection of:
 - Academic excellence with strong extracurricular participation
 - Early development of passion for sciences
 
+## 📜 Certifications
+
+- **STK Level 1** – Official certificated from AGI
+
+## 🏅 Competitions Attended
+
+- **Vyoma Design-a-athon** – 1st Runner up - worked on completely designing a disaster relief module.
+- **HAL Aerothon** - Worked on designing a fuel injection system for a turboshaft engine, focused more on fuel tanks, cavitation prevention and fuel atomization using air blast atomizers.
+
+
 ## 🏆 Achievements & Experience
 
 ### Academic Excellence
@@ -96,13 +106,11 @@ Comprehensive collection of:
 - Advanced cooling system analysis and optimization
 - Performance studies for aerospace applications
 
-
 ## 🌐 Connect with Me
 
 - 🌍 **Portfolio**: [aboutkvs.vercel.app](https://aboutkvs.vercel.app/)
 - 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/shanthoshkv)
 - 📧 **Email**: shanthoshkv@gmail.com
-
 
 ## 🔭 Completed Projects
 
@@ -115,6 +123,3 @@ Comprehensive collection of:
 - 🚀 Dream of contributing to next-generation spacecraft propulsion
 - 📚 Always learning about cutting-edge aerospace technologies
 - 🔬 Fascinated by the intersection of nuclear physics and space engineering
-
----
-
