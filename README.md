@@ -79,7 +79,7 @@ Comprehensive collection of:
 
 ## 📜 Certifications
 
-- **STK Level 1** – Official certificated from AGI
+- **STK Level 1** – Official certificate from AGI
 
 ## 🏅 Competitions Attended
 
